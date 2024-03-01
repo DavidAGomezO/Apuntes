@@ -1,0 +1,5 @@
+- Los programas se definen bajo la [[terna de Hoare]]
+	- La definción formal de esta está determinada por $S$, el programa.
+	- Sintaxis y Semántica de [[Comandos Guardados]]
+	- [[Corrección de Programas]]
+-

@@ -1,0 +1,35 @@
+- La corrección de programas se hace con cada una de las instrucciones que tenga este. Debido a la posibilidad de programas que pueden haber, es necesario partir de lo  particular, así, se tienen predicados que definen cada una de las instrucciones presentadas en los [[Comandos Guardados]].
+- # Asignación
+	- En un programa con la instrucción de ((65dd5004-cc5a-44fa-8c54-981bedb8d190)), el predicado a demostrar es que la precondición, implica la postcondición reemplazando las variables afectadas por la asignación por el valor a asignar.
+	- $\{P\}\: x_0,x_1,\dots,x_n := c_0,c_1,\dots,c_n\: \{Q\} \equiv P \Rightarrow Q[x_0,\dots,x_n := c_0,\dots,c_n]$
+	- Ejemplo: ![CorrAsignEjemplo.pdf](../assets/AssetsPDF_1709068883966_0.pdf)
+- # Concatenación
+	- En un programa ((65de3215-b2c0-4e01-a775-cf8fda8733a0)) , lo que hace falta comprobar es la compatibildad en el orden que aparecen, de los programas concatenados.
+	- Para un caso de dos programas concatenados, $\{P\}\: S_1;S_2\:\{Q\}$, hace falta demostrar que existe un predicado $R$ tal que $\{P\}\: S_1\:\{R\} \land \{R\}\:S_2\:\{Q\}$.
+	- La estrategia es partir del último programa al primero, tomando $R$ como el predicado más debil necesario entre cada par de programas. En la última iteración de este proceso, el predicado obtenido debe ser consecuencia de la precondición original $P$.
+	- Ejemplo: ![CorrConcEjemplo.pdf](../assets/AssetsPDF_1709070305426_0.pdf)
+- # Condicional
+	- En un programa con un ((65dd5022-9299-4851-b9b8-2969a49afe51)) de $n + 1$ guardas, por la semántica de este, lo primero que hace falta demostrar es que la precondición asegura la existencia de una guarda abierta, esto es:
+	  $P \Rightarrow (\exists i\,|\, 0 \leq i \leq n\,:\, G_i)$
+	- De igual forma, se debe comprobar que para toda guarda, en conjunción con la precondición, hacen una nueva precondición la cual es válida para completar la [[terna de Hoare]] tomando la instrucción de dicha guarda como programa y la postcondición del programa original.
+	  collapsed:: true
+	  $(\forall i\,|\,0 \leq i \leq n \,:\, \{P \land G_i\}\: S_i\: \{Q\})$
+		- Nótese que, para las guardas que son falsas siempre, el programa es correcto, pues el predicado "falso", implica cualquier otro predicado, en especial, el más debil para usar de precondición en $S_i\:\{Q\}$
+		-
+	- Ejemplo: ![CorrCondEjemplo.pdf](../assets/AssetsPDF_1709076105854_0.pdf)
+- # Ciclo
+	- En un programa con un ciclo de $n+1$ guardas, hace falta un poco más de trabajo.
+		- Lo primero es tener un predicado $P$ el cual no será la precondición, sino un predicado invariante, es decir, es verdadero en todos los estados del ciclo. $P$ se tomará ahora como la precondición del ciclo.
+		- Con $P$, hace falta verificar que al finalizar el ciclo, se tenga la postcondición del mismo.
+			- Para garantizar que el ciclo finaliza, hace falta demostrar la existencia de una función entera la cual tiene como dominio las variables. Esta función debe tener las siguientes características:
+				- Tomando $P$ y alguna de las guardas, debe ser positiva.
+				- Si la función toma un valor con $P$ y una guarda $G_i$, entonces el valor al ejecutar $S_i$ debe ser menor, estrictamente, que el que tenía antes.
+		- De manera simbólica:
+			- $P \land (\forall i \,|\, 0 \leq i \leq n \,:\, \lnot G_i) \Rightarrow Q$
+			- $(\forall i \,|\, 0 \leq i \leq n \,:\, \{P \land G_i\}\: S_i\: \{P\})$
+			- Sea $P*$ la precondición de todo el programa, y postcondiciones de las concatenaciones anteriores al ciclo. Entonces $P$ es verdadera bajo $P*$.
+			- $P$ es verdadera bajo $Q$.
+			- Existe una función $t$ de valor enero con dominio en las variables de cada estado tal que:
+				- $P \land (\exists i \,|\, 0 \leq i \leq n \,:\, G_i) \Rightarrow t \geq 0$
+				- $(\forall i \,|\, 0 \leq i \leq n \,:\, \{P \land G_i \land t = K\}\: S_i \:\{t < K \})$
+		- Ejemplo: ![CorrCicloEjemplo.pdf](../assets/AssetsPDF_1709082105127_0.pdf)
