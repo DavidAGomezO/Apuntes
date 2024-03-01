@@ -5,7 +5,4 @@
   
   Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
   #+END_QUOTE
-- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se define
-	- $M_i^f = \sup\left\{f(x) \middle| x \in [x_{i-1},x_i]s\right\}$
-	- $m_i^f = \inf\left\{f(x) \middle| x \in [x_{i-1},x_i]s\right\}$
-	- $\displaystyle U(P,f) = \sum_{i=1}^n M_i^f\,\Delta x_i$
+- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se definen las sumas superiores e inferiores de la siguiente manera:
