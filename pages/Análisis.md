@@ -8,7 +8,7 @@
 		- Discontinuidades
 	- Diferenciación
 - [[Integral]]
-	- Riemman-Stieltjes
+	- [[Riemman-Stieltjes]]
 		- Integración y Diferenciación
 		- Curvas Rectificables
 	- Sucesiones de Funciones

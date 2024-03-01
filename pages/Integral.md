@@ -1,2 +1,2 @@
-- En la rama integral, se estudia la integral de Riemman-Stieltjes, y cómo esta se comporta junto con definciones anteriores. Además se estudian sucesiones de funciones, las cuales tienen mayores posibilidades que las sucesiones presentadas en el [[Diferencial]]
--
+- En la rama integral, se estudia la integral de Riemman-Stieltjes, y cómo esta se comporta junto con definciones anteriores. Además se estudian sucesiones de funciones, las cuales tienen mayores posibilidades que las sucesiones presentadas en el [Análisis Diferencial]([[Diferencial]]).
+- En la página [[Análisis]] se encuentran listados los temas principales del curso, cada uno con las respectivas definciones y teoremas vistos.
