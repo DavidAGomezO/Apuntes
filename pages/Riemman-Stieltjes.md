@@ -5,4 +5,6 @@
   
   Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
   #+END_QUOTE
-- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se definen las sumas superiores e inferiores de la siguiente manera: ![DefSumSupInf.pdf](../assets/AssetsPDF_1709403136455_0.pdf)
+- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se definen las sumas e integrales superiores e inferiores de la siguiente manera: ![SumIntDefs.pdf](../assets/AssetsPDF_1709403726826_0.pdf)
+	- En el caso en que la integral inferior y la superior coincidan, se dice que $f$ es Riemman integrable en $[a,b]$, y en este caso, se omite la notación de superior e inferior y se escribe:
+	  $$\int_a^b f(x)\,\mathrm{d}x$$
