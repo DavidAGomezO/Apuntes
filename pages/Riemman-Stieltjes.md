@@ -5,4 +5,4 @@
   
   Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
   #+END_QUOTE
-- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se definen las sumas superiores e inferiores de la siguiente manera:
+- Tomando una función $f$ definida y acotada en $[a,b]$, para toda partición, se definen las sumas superiores e inferiores de la siguiente manera: ![DefSumSupInf.pdf](../assets/AssetsPDF_1709403136455_0.pdf)
