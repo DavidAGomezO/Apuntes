@@ -25,5 +25,4 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  id:: 65e4c6f0-21f6-43f8-9071-1782e1e0799c
 	- $U(P^*,f,\alpha) \leq L(P,f,\alpha)$
 	  logseq.order-list-type:: number
-	- ## Demostración:
-		- Considerando $P^*$ con un punto más que $P$. Sea $x^* \in [x_{k-1},x_k]$ el punto extra mencionado. Se
+	- ## Demostración: ![Demo6.4.pdf](../assets/AssetsPDF_1709493727214_0.pdf)
