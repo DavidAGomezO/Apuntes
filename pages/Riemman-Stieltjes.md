@@ -26,3 +26,5 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- $U(P^*,f,\alpha) \leq L(P,f,\alpha)$
 	  logseq.order-list-type:: number
 	- ## Demostración: ![Demo6.4.pdf](../assets/AssetsPDF_1709493727214_0.pdf)
+- # Teorema 6.5 (Desigualdad entre integrales superior e inferior)
+	-
