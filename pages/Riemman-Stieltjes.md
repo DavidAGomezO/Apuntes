@@ -28,3 +28,4 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- ## Demostración: ![Demo6.4.pdf](../assets/AssetsPDF_1709493727214_0.pdf)
 - # Teorema 6.5 (Desigualdad entre integrales superior e inferior)
 	- ![Demo6.5.pdf](../assets/AssetsPDF_1709498735076_0.pdf)
+- # Teorema 6.6 (Caracterización de ser integrable)
