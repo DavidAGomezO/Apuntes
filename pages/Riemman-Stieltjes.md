@@ -16,7 +16,7 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 		  $$\int_a^bf\,\mathrm{d}\alpha$$
 	- Para denotar que $f$ es Riemman integrable o Riemman-Stieltjes integrable en $[a,b]$, se escribe respectivamente:
 	  $$f \in \mathscr{R}_{[a,b]} \qquad f \in \mathscr{R}(\alpha)_{[a,b]}$$
-- Se dice que una [partición] ((65e249b8-ed52-40b7-916e-f5f9bc261c47)) $P^*$ es un refinamiento de una partición $P$ cuando $P \subseteq P^*$. Y se dice que $P*$ es el refinamiento común de $P_1$ y $P_2$ cuando $P^* = P_1 \cup P_2$
+- Se dice que una [partición] ((65e249b8-ed52-40b7-916e-f5f9bc261c47)) $P^*$ es un refinamiento de una partición $P$ cuando $P \subseteq P^*$. Y se dice que $P^*$ es el refinamiento común de $P_1$ y $P_2$ cuando $P^* = P_1 \cup P_2$
 -
 - # Teorema 6.4 (Refinamientos y Sumas)
 	- Si $P^*$ es un refinamiento de $P$, entonces:
