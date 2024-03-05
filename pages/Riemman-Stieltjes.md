@@ -41,5 +41,6 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- Sean $\varepsilon > 0$ y $P$ una partición de $[a,b]$.
 	  Si $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$, entonces:
 	- (a) También se mantiene para todo refinamiento de $P$
-	- (b) Sean $s_i,t_i \in [x_{i-1},x_i]$,
-	  $\displaystyle\sum_{i=1}^n |f(s_i) - f(t_i)|\,\Delta\alpha_i < \varepsilon$
+	- (b) Sean $s_i,t_i \in [x_{i-1},x_i]$ en toda la par,
+	  $$\displaystyle\sum_{i=1}^n |f(s_i) - f(t_i)|\,\Delta\alpha_i < \varepsilon$$
+	- Sean
