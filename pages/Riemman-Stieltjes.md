@@ -40,7 +40,9 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 - # Teorema 6.7
 	- Sean $\varepsilon > 0$ y $P$ una partición de $[a,b]$.
 	  Si $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$, entonces:
-	- (a) También se mantiene para todo refinamiento de $P$
-	- (b) Sean $s_i,t_i \in [x_{i-1},x_i]$ en toda la par,
+	- (a) Para todo refinamiento $P^*$ de $P$
+	  $$U(P^*,f,\alpha) - L(P^*,f,\alpha) < \varepsilon$$
+	- (b) Sean $s_i,t_i \in [x_{i-1},x_i]$ en toda la partición $P$
 	  $$\displaystyle\sum_{i=1}^n |f(s_i) - f(t_i)|\,\Delta\alpha_i < \varepsilon$$
-	- Sean
+	- Sean $t_i \in [x_{i-1},x_i]$ en toda la partición $P$, $f \in \mathscr{R}(\alpha)_{[a,b]}$
+	  $$\left|\sum_{i=0}^n f(t_i)\,\Delta\alpha_i - \int_a^b f\,\mathrm{d}\alpha\right| < \varepsilon$$
