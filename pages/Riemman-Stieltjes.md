@@ -51,4 +51,6 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- ## Demostración: ![Demo6.7.pdf](../assets/AssetsPDF_1709667610908_0.pdf)
 - # Teorema 6.8
 	- Sean $f$ continua en $[a,b]$ y $\alpha$ creciente en $[a,b]$, entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
-	-
+	- Teoremas referenciados:
+		- Teorema 4.19
+	- ## Demostración: ![Demo6.8.pdf](../assets/AssetsPDF_1709668612401_0.pdf)
