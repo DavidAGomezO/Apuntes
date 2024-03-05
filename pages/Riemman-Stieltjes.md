@@ -27,7 +27,10 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  logseq.order-list-type:: number
 	- ## Demostración: ![Demo6.4.pdf](../assets/AssetsPDF_1709493727214_0.pdf)
 - # Teorema 6.5 (Desigualdad entre integrales superior e inferior)
+  id:: 65e4d321-2e49-48ce-833f-8586de8155bb
 	- ## ![Demo6.5.pdf](../assets/AssetsPDF_1709498735076_0.pdf)
 - # Teorema 6.6 (Caracterización de ser integrable)
 	- $f \in \mathscr(\alpha)_{[a,b]}$ si y solo si, para todo $\varepsilon > 0$, existe una partición $P$ de $[a,b]$ tal que
 	  $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$
+	- Teoremas referenciados:
+		- ((65e4d321-2e49-48ce-833f-8586de8155bb))
