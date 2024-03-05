@@ -46,3 +46,6 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  $$\displaystyle\sum_{i=1}^n |f(s_i) - f(t_i)|\,\Delta\alpha_i < \varepsilon$$
 	- Sean $t_i \in [x_{i-1},x_i]$ en toda la partición $P$, $f \in \mathscr{R}(\alpha)_{[a,b]}$
 	  $$\left|\sum_{i=0}^n f(t_i)\,\Delta\alpha_i - \int_a^b f\,\mathrm{d}\alpha\right| < \varepsilon$$
+	- Teoremas referenciados:
+		- ((65e4c547-d291-4d92-92a0-c8afe2537179))
+-
