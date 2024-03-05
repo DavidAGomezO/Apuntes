@@ -48,5 +48,7 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  $$\left|\sum_{i=0}^n f(t_i)\,\Delta\alpha_i - \int_a^b f\,\mathrm{d}\alpha\right| < \varepsilon$$
 	- Teoremas referenciados:
 		- ((65e4c547-d291-4d92-92a0-c8afe2537179))
+	- ## Demostración: ![Demo6.7.pdf](../assets/AssetsPDF_1709667610908_0.pdf)
 - # Teorema 6.8
--
+	- Sean $f$ continua en $[a,b]$ y $\alpha$ creciente en $[a,b]$, entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
+	-
