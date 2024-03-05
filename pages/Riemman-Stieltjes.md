@@ -40,3 +40,4 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 - # Teorema 6.7
 	- (a) Sean $\varepsilon > 0$ y $P$ una partición de $[a,b]$.
 	  Si $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$, entonces esto también se mantiene para todo refinamiento de $P$
+	- (b)
