@@ -19,6 +19,7 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 - Se dice que una [partición] ((65e249b8-ed52-40b7-916e-f5f9bc261c47)) $P^*$ es un refinamiento de una partición $P$ cuando $P \subseteq P^*$. Y se dice que $P^*$ es el refinamiento común de $P_1$ y $P_2$ cuando $P^* = P_1 \cup P_2$
 -
 - # Teorema 6.4 (Refinamientos y Sumas)
+  id:: 65e4c547-d291-4d92-92a0-c8afe2537179
 	- Si $P^*$ es un refinamiento de $P$, entonces:
 	- $L(P,f,\alpha) \leq L(P^*,f,\alpha)$
 	  logseq.order-list-type:: number
@@ -34,3 +35,5 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$
 	- Teoremas referenciados:
 		- ((65e4d321-2e49-48ce-833f-8586de8155bb))
+		- ((65e4c547-d291-4d92-92a0-c8afe2537179))
+	- ## Demostración: ![Demo6.6.pdf](../assets/AssetsPDF_1709655646778_0.pdf)
