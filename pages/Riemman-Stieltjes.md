@@ -37,3 +37,4 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 		- ((65e4d321-2e49-48ce-833f-8586de8155bb))
 		- ((65e4c547-d291-4d92-92a0-c8afe2537179))
 	- ## Demostración: ![Demo6.6.pdf](../assets/AssetsPDF_1709655646778_0.pdf)
+-
