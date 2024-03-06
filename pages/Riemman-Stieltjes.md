@@ -65,3 +65,6 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 		- Teorema 4.19
 		- Teorema 4.23
 	- ## Demostración: ![Demo6.10.pdf](../assets/AssetsPDF_1709686860657_0.pdf)
+- # Teorema 6.11
+	- Sean $f\in\mathscr{R}(\alpha)_{[a,b]}$, $\phi$ continua entre el ínfimo y supremo de $f$ en $[a,b]$. Entonces
+	  $$(\phi \circ f)\in\mathscr{R}(\alpha)_{[a,b]}$$
