@@ -61,3 +61,7 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- ## Demostración: ![Demo6.9.pdf](../assets/AssetsPDF_1709672851574_0.pdf)
 - # Teorema 6.10
 	- Sean $f$ una función acotada en $[a,b]$ discontinua únicamente en una cantidad finita de puntos de $(a,b)$. Sea $\alpha$ creciente y continua en los puntos de discontinuidad de $f$. Entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
+	- Teoremas referenciados:
+		- Teorema 4.19
+		- Teorema 4.23
+	- ## Demostración: ![Demo6.10.pdf](../assets/AssetsPDF_1709686860657_0.pdf)
