@@ -31,6 +31,7 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
   id:: 65e4d321-2e49-48ce-833f-8586de8155bb
 	- ## ![Demo6.5.pdf](../assets/AssetsPDF_1709498735076_0.pdf)
 - # Teorema 6.6 (Caracterización de ser integrable)
+  id:: 65e54b21-5591-48db-a295-81b58887b249
 	- $f \in \mathscr(\alpha)_{[a,b]}$ si y solo si, para todo $\varepsilon > 0$, existe una partición $P$ de $[a,b]$ tal que
 	  $U(P,f,\alpha) - L(P,f,\alpha) < \varepsilon$
 	- Teoremas referenciados:
@@ -53,18 +54,23 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	- Sean $f$ continua en $[a,b]$ y $\alpha$ creciente en $[a,b]$, entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
 	- Teoremas referenciados:
 		- Teorema 4.19
+		- ((65e54b21-5591-48db-a295-81b58887b249))
 	- ## Demostración: ![Demo6.8.pdf](../assets/AssetsPDF_1709668612401_0.pdf)
 - # Teorema 6.9
 	- Sean $f$ una función monótona en $[a,b]$ y $\alpha$ creciente y continua en $[a,b]$. Entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
 	- Teoremas referenciados:
 		- Teorema 4.23
+		- ((65e54b21-5591-48db-a295-81b58887b249))
 	- ## Demostración: ![Demo6.9.pdf](../assets/AssetsPDF_1709672851574_0.pdf)
 - # Teorema 6.10
 	- Sean $f$ una función acotada en $[a,b]$ discontinua únicamente en una cantidad finita de puntos de $(a,b)$. Sea $\alpha$ creciente y continua en los puntos de discontinuidad de $f$. Entonces $f\in\mathscr{R}(\alpha)_{[a,b]}$
 	- Teoremas referenciados:
 		- Teorema 4.19
 		- Teorema 4.23
+		- ((65e54b21-5591-48db-a295-81b58887b249))
 	- ## Demostración: ![Demo6.10.pdf](../assets/AssetsPDF_1709686860657_0.pdf)
 - # Teorema 6.11
 	- Sean $f\in\mathscr{R}(\alpha)_{[a,b]}$, $\phi$ continua entre el ínfimo y supremo de $f$ en $[a,b]$. Entonces
 	  $$(\phi \circ f)\in\mathscr{R}(\alpha)_{[a,b]}$$
+	- Teoremas referenciados:
+		- Teorema 4.19
