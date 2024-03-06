@@ -74,3 +74,4 @@ Se define $\Delta x_i = x_{i-1} - x_i$ para todo $1 \leq i \leq n$
 	  $$(\phi \circ f)\in\mathscr{R}(\alpha)_{[a,b]}$$
 	- Teoremas referenciados:
 		- Teorema 4.19
+		- ((65e54b21-5591-48db-a295-81b58887b249))
