@@ -15,3 +15,7 @@
 		  $\mathscr{B}$ es llamado la clausura o adherencia uniforme de $\mathscr{A}$
 - # Teorema 7.29
 	- Sea $\mathscr{B}$ la clausura uniforme de una álgebra de funciónes acotadas. Entonces $\mathscr{B}$ es un álgebra cerrada.
+	- Teoremas referenciados:
+		- Teorema 2.27
+		- Ejercicio 7.2
+	- ## Demostración: ![Demo7.29.pdf](../assets/AssetsPDF_1709784034127_0.pdf)
