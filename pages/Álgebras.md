@@ -13,3 +13,4 @@
 		- Sea
 		  $$\mathscr{B} = \left\{f \in \mathscr{A} \middle|\left(\exists \langle f_n \rangle\,\middle|   \langle f_n \rangle [\mathbb{J}] \subseteq \mathscr{A}\,:\,\langle f_n \rangle \to f \text{ uniformemente}\right)\right\}$$
 		  $\mathscr{B}$ es llamado la clausura o adherencia uniforme de $\mathscr{A}$
+- # Teorema 7.29
