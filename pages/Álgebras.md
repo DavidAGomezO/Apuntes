@@ -11,4 +11,5 @@
 		- Un álgebra $\mathscr{A}$ tiene la propiedad de ser uniformemente cerrada cuando, para toda $\langle f_n \rangle$ con rango en $\mathscr{A}$ y con convergencia uniforme a $f$:
 		  $$f\in\mathscr{A}$$
 		- Sea
-		  \[\mathscr{B} = \{f \in \mathscr{A} \middle{|} \left(\exists \langle f_n \rangle\,\middle{|} \langle f_n \rangle [\mathbb{J}] \subseteq \mathscr{A}\,:\, \langle f_n \rangle \to f \text{ uniformemente}\right)\right\}\]
+		  $$\mathscr{B} = \left\{f \in \mathscr{A} \middle|\left(\exists \langle f_n \rangle\,\middle|   \langle f_n \rangle [\mathbb{J}] \subseteq \mathscr{A}\,:\,\langle f_n \rangle \to f \text{ uniformemente}\right)\right\}$$
+		  Se dice que $\mathscr{B}$ es la clausura o adherencia uniforme de $\mathscr{A}$
