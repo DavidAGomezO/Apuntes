@@ -28,3 +28,7 @@
 		- Ejercicio 7.2
 	- ## Demostración: ![Demo7.29.pdf](../assets/AssetsPDF_1709784034127_0.pdf)
 - # Teorema 7.31
+	- Sea $\mathscr{A}$ un álgebra de funciones reales continuas en un conjunto compacto $K$. \mathscr{A} separa puntos y no se anula en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones reales continuas en $K$.
+	- Teoremas referenciados:
+		- Teorema 7.26
+	-
