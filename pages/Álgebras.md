@@ -8,6 +8,7 @@
 		- $c\,f\in\mathscr{A}$
 		  logseq.order-list-type:: number
 	- ## Álgebras cerradas uniformemente
+	  id:: 65e90cd3-f8c5-4136-9c29-be8fe7eb1ec7
 		- Un álgebra $\mathscr{A}$ tiene la propiedad de ser uniformemente cerrada cuando, para toda $\langle f_n \rangle$ con rango en $\mathscr{A}$ y con convergencia uniforme a $f$:
 		  $$f\in\mathscr{A}$$
 		- Sea
@@ -19,3 +20,4 @@
 		- Teorema 2.27
 		- Ejercicio 7.2
 	- ## Demostración: ![Demo7.29.pdf](../assets/AssetsPDF_1709784034127_0.pdf)
+-
