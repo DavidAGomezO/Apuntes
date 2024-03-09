@@ -20,4 +20,3 @@
 		- Teorema 2.27
 		- Ejercicio 7.2
 	- ## Demostración: ![Demo7.29.pdf](../assets/AssetsPDF_1709784034127_0.pdf)
--
