@@ -16,8 +16,11 @@
 		  $$\mathscr{B} = \left\{f \in \mathscr{A} \middle|\left(\exists \langle f_n \rangle\,\middle|   \langle f_n \rangle [\mathbb{J}] \subseteq \mathscr{A}\,:\,\langle f_n \rangle \to f \text{ uniformemente}\right)\right\}$$
 		  $\mathscr{B}$ es llamado la clausura o adherencia uniforme de $\mathscr{A}$
 	- ## Familias que separan puntos
-		- Sea $\mathscr{A}$ una familia de func
-		-
+		- Sea $\mathscr{A}$ una familia de funciones en un conjunto $E$. Se dice que $\mathscr{A}$ separa puntos en $E$ cuando, para todo $x_1,x_2\in E$, existe una función $f\in\mathscr{A}$ tal que
+		  $$f(x_1) \not= f(x_2)$$
+	- ## Familias que no se anulan
+		- Sea $\mathscr{A}$ una familia de funciones en un conjunto $E$. Se dice que $\mathscr{A}$ no se anula en $E$ cuando, para todo $x\in E$, existe $f\in\mathscr{A}$ tal que
+		  $$f(x) \not= 0$$
 - # Teorema 7.29
 	- Sea $\mathscr{B}$ la clausura uniforme de una álgebra de funciónes acotadas. Entonces $\mathscr{B}$ es un álgebra cerrada.
 	- Teoremas referenciados:
