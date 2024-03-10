@@ -27,9 +27,12 @@
 		- Teorema 2.27
 		- Ejercicio 7.2
 	- ## Demostración: ![Demo7.29.pdf](../assets/AssetsPDF_1709784034127_0.pdf)
+- # Teorema 7.31
+  id:: 65ecfc8f-9a3b-4ce6-aaba-4e989b2a9ef2
+	-
 - # Teorema 7.32
 	- Sea $\mathscr{A}$ un álgebra de funciones reales continuas en un conjunto compacto $K$. \mathscr{A} separa puntos y no se anula en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones reales continuas en $K$.
 	- Teoremas referenciados:
 		- Teorema 7.26 (Stone-Weierstrass)
-		- ((Teorema 7.31))
-	-
+		- ((65ecfc8f-9a3b-4ce6-aaba-4e989b2a9ef2))
+	- ## Demostración: ![Demo7.32.pdf](../assets/AssetsPDF_1710029913047_0.pdf)
