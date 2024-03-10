@@ -31,6 +31,7 @@
   id:: 65ecfc8f-9a3b-4ce6-aaba-4e989b2a9ef2
 	- Sea $\mathscr{A}$ un álgebra de funciones definidas en un conjunto $E$. $\mathscr{A}$ separa puntos y no se anula en $E$. Dados dos puntos diferentes de $E$, $x_1,x_2$, y dos constantes $c_1,c_2$, existe una función $f\in\mathscr{A}$ tal que
 	  $$f(x_1) = c_1 \quad \land \quad f(x_2) = c_2$$
+	- ## Demostración: ![Demo7.31.pdf](../assets/AssetsPDF_1710030911160_0.pdf)
 - # Teorema 7.32
 	- Sea $\mathscr{A}$ un álgebra de funciones reales continuas en un conjunto compacto $K$. \mathscr{A} separa puntos y no se anula en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones reales continuas en $K$.
 	- Teoremas referenciados:
