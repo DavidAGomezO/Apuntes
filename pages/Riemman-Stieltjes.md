@@ -75,5 +75,7 @@
 	- Sean $f\in\mathscr{R}(\alpha)_{[a,b]}$, $\phi$ continua entre el ínfimo y supremo de $f$ en $[a,b]$. Entonces
 	  $$(\phi \circ f)\in\mathscr{R}(\alpha)_{[a,b]}$$
 	- Teoremas referenciados:
+		- Teorema 4.15
 		- Teorema 4.19
 		- ((65e54b21-5591-48db-a295-81b58887b249))
+	- ## Demostración: ![Demo6.11.pdf](../assets/AssetsPDF_1710285466777_0.pdf)
