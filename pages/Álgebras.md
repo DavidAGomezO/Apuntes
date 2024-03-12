@@ -49,4 +49,4 @@
 	- Sea $\mathscr{A}$ un [álgebra auto-adjunta](((65efd095-a012-4ee7-bae8-ad0d22931e23))) de funciones complejas continuas en un conjunto compacto $K$. $\mathscr{A}$ [separa puntos](((65ec7a93-e97a-48c2-bdef-2edaf8b2aa4a)))  y [no se anula](((65ec7b22-48fb-404b-ad89-b6e85bbee40e))) en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones complejas continuas en $K$.
 	- Teoremas referenciados:
 		- ((65ec7939-07e4-449e-bf2b-34cdecb86039))
-	- ## Demostración: /ass
+	- ## Demostración: ![Demo7.33.pdf](../assets/AssetsPDF_1710218112006_0.pdf)
