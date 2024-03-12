@@ -79,3 +79,5 @@
 		- Teorema 4.19
 		- ((65e54b21-5591-48db-a295-81b58887b249))
 	- ## Demostración: ![Demo6.11.pdf](../assets/AssetsPDF_1710285466777_0.pdf)
+- # Teorema 6.12 (Propiedades de la integral)
+	- (a)
