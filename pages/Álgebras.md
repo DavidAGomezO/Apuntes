@@ -39,6 +39,7 @@
 	  $$f(x_1) = c_1 \quad \land \quad f(x_2) = c_2$$
 	- ## Demostración: ![Demo7.31.pdf](../assets/AssetsPDF_1710030911160_0.pdf)
 - # Teorema 7.32
+  id:: 65ec7939-07e4-449e-bf2b-34cdecb86039
 	- Sea $\mathscr{A}$ un álgebra de funciones reales continuas en un conjunto compacto $K$. $\mathscr{A}$ [separa puntos](((65ec7a93-e97a-48c2-bdef-2edaf8b2aa4a)))  y [no se anula](((65ec7b22-48fb-404b-ad89-b6e85bbee40e))) en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones reales continuas en $K$.
 	- Teoremas referenciados:
 		- Teorema 7.26 (Stone-Weierstrass)
@@ -46,3 +47,6 @@
 	- ## Demostración: ![Demo7.32.pdf](../assets/AssetsPDF_1710029913047_0.pdf)
 - # Teorema 7.33
 	- Sea $\mathscr{A}$ un [álgebra auto-adjunta](((65efd095-a012-4ee7-bae8-ad0d22931e23))) de funciones complejas continuas en un conjunto compacto $K$. $\mathscr{A}$ [separa puntos](((65ec7a93-e97a-48c2-bdef-2edaf8b2aa4a)))  y [no se anula](((65ec7b22-48fb-404b-ad89-b6e85bbee40e))) en $K$. Entonces, la clausura uniforme de $\mathscr{A}$ consiste en todas las funciones complejas continuas en $K$.
+	- Teoremas referenciados:
+		- ((65ec7939-07e4-449e-bf2b-34cdecb86039))
+	- ## Demostración: /ass
