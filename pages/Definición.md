@@ -24,4 +24,5 @@
 - ## Forma Polar
 	- Al igual que para $\mathbb{R}^2$, cada pareja cartesiana tiene una única pareja polar asignada, lo mismo sucede con los complejos. Esto se ve con la representación exponencial, sin embargo, el libro presenta la expresión cartesiana usando los parámetros polares. Sea $z\in\mathbb{C}$, $z$ puede ser representado de la siguiente manera:
 	  $$z = r(\cos(\theta) + i\sin(\theta))$$
-	  Donde $r=|z|$ y $\theta$ es una representación del ángulo
+	  Donde $r=|z|$ y $\theta$ es una representación del ángulo formado entre el eje real y el vector representante de $z$.
+	- ### Argumento de un número complejo
