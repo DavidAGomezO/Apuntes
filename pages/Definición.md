@@ -18,4 +18,10 @@
 	- Dado $z=x+iy$, el inverso aditivo de $z$ es el complejo $-x - iy$. Si $z\not=0$, su inverso multiplicativo es el complejo $\dfrac{x}{x^2+ y^2} - \dfrac{iy}{x^2+y^2}$
 - # Geometría en $\mathbb{C}$
 - Dado que los complejos están definidos con $\mathbb{R}^2$, la visualización de estos se puede lograr usando un plano cartesiano.  El módulo de un número complejo se define de igual forma que en la métrica usual para $\mathbb{R}^2$. Dado $z = x + iy$, entonces $|z| = \sqrt{x^2 + y^2}$
-- Muchas veces es de utilidad trabajar el complejo $z$ junto a lo que sería su
+- ## Conjugado
+	- Muchas veces es de utilidad trabajar el complejo $z=x+iy$ junto a lo que sería su reflexión en el eje real, es decir, el complejo $x-iy$. Este número es llamado el *conjugado* de $z$, y es denotado por $\overline{z}$.
+	- El conjugado distribuye sobre la suma y el producto.
+- ## Forma Polar
+	- Al igual que para $\mathbb{R}^2$, cada pareja cartesiana tiene una única pareja polar asignada, lo mismo sucede con los complejos. Esto se ve con la representación exponencial, sin embargo, el libro presenta la expresión cartesiana usando los parámetros polares. Sea $z\in\mathbb{C}$, $z$ puede ser representado de la siguiente manera:
+	  $$z = r(\cos(\theta) + i\sin(\theta))$$
+	  Donde $r=|z|$ y $\theta$ es una representación del ángulo
