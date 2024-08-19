@@ -26,3 +26,6 @@
 	  $$z = r(\cos(\theta) + i\sin(\theta))$$
 	  Donde $r=|z|$ y $\theta$ es una representación del ángulo formado entre el eje real y el vector representante de $z$.
 	- ### Argumento de un número complejo
+		- Sea $z\in\mathbb{C}$, con $z = r(\cos(\theta) + i\sin(\theta))$, con $\theta \in (-\pi,\pi]$. El argumento de $z$, es un conjunto denotado y definido de la siguiente manera:
+		  $$\text{arg}\,z = \{\theta + 2k\pi | k \in \mathbb{Z}\}$$
+		-
