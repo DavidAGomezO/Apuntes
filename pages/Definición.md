@@ -1,0 +1,1 @@
+- Como se vio en [[Análisis]], los complejos se definen en $\mathbb{R}^2$. Sea $z\in\mathbb{C}$, $z$ es entonces una pareja de números reales $(x,y)$, los cuales serán llamados parte real y parte imaginaria respectivamente, denotadas como $$\text{Re}\,z = x $$

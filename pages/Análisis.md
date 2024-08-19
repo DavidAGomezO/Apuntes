@@ -1,4 +1,8 @@
+- Libro de referencia: ![Rudin](../assets/rudin_1724042583954_0.pdf)
 - [[Diferencial]]
+	- Cuerpos
+		- Reales
+		- Complejos
 	- Espacios Métricos
 		- Conjuntos Compactos
 	- Sucesiones

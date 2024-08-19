@@ -1,0 +1,8 @@
+- Libro de referencia: ![Variable Compleja y Aplicaciones 5ta edición](../assets/variable-compleja-y-aplicaciones-churchill_1724042312570_0.pdf)
+- Capítulo 1: Números Complejos
+	- [[Definición]]
+	- Regiones en el plano complejo
+- Capítulo 2: Funciones Analíticas
+- Capítulo 3: Funciones elementales
+- Capítulo 4: Integrales
+- Capítulo 5: Series
