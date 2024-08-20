@@ -29,4 +29,5 @@
 		- Sea $z\in\mathbb{C}$, con $z = r(\cos(\theta) + i\sin(\theta))$, con $\theta \in (-\pi,\pi]$. El argumento de $z$, es un conjunto denotado y definido de la siguiente manera:
 		  $$\text{arg}\,z = \{\theta + 2k\pi | k \in \mathbb{Z}\}$$
 		- El *argumento principal* de $z$, denotado por $\text{Arg}\,z$, es el único elemento de $\text{arg} z \cap (-\pi, \pi]$
-		- Una propiedad de los arumentos de los números complejos es que el argumento de un producto es la suma de los argumentos de sus factores, con la convención de que la suma de conjuntos es la suma de sus elementos.
+		- Una propiedad de los arumentos de los números complejos es que el argumento de un producto es la suma de los argumentos de sus factores, con la convención de que la suma de conjuntos es la suma de sus elementos. Demo: ![argumentos.pdf](../assets/AssetsPDF_1724126123535_0.pdf)
+-
