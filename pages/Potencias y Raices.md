@@ -7,3 +7,4 @@
   $$(\cos(\theta) \pm i\sin(\theta))^n = \cos(n\theta) \pm i\sin(n\theta)$$
 - Para definir raices n-ésimas, se realiza el mismo proceso que en $\mathbb{R}$. Haciendo referencia a un complejo $z_0$, sus raices serán las soluciones a la ecuación
   $$z^n = z_0$$
+- Antes de entrar en detalles, un ejemplo para las raices n-ésimas de la unidad:
