@@ -1,0 +1,5 @@
+- Para $n\in\mathbb{N}$, las potencias de un número complejo $z = re^{i\theta}$, están dadas por la expresión
+  $$z^n = r^n e^{in\theta}$$
+  Cosa que se puede demostrar fácilmente por inducción usando el hecho de que $z^{n+1} = z\,z^n$.
+- De esta definición, también se puede expandir a los enteros con la ecuación 
+  $$z^n = (z^{-1})^{-n}$$
