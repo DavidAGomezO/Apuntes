@@ -12,4 +12,4 @@
   $$\left\{\sqrt{r}\exp\left(i\frac{\theta_0 + 2k\pi}{n}\right)\middle| 0 \geq k < n \land k \in \mathbb{Z}\right\}$$
 - De la mano con esto viene una conveniencia. Al decir que $z = z_0^{1/n}$ se está diciendo que $z \in z_0^{1/n}$. La notación presentada simplificará los cálculos, sin embargo es necesario recordar a qué hace referencia. De esto se obtienen un par de resultados interesantes:
 - ## Lemas sobre Raíces
-	- $(a^n\,b)^{1/n} = a\,b^{1/n}$:
+	- $(a^n\,b)^{1/n} = a\,b^{1/n}$: ![Lema1.pdf](../assets/AssetsPDF_1725246815711_0.pdf)
