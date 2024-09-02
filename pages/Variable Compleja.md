@@ -4,7 +4,7 @@
 	- [[Potencias y Raices]]
 	- [[Regiones en el plano complejo]]
 - Capítulo 2: Funciones Analíticas
-	-
+	- [[Limites (VACO)]]
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
