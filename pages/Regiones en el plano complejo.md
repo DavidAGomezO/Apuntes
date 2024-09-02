@@ -7,8 +7,11 @@
 		  $$\left(\forall\varepsilon\,\middle|\,\varepsilon>0\,:\,N_\varepsilon(z) \cap S \not= \varnothing \land N_\varepsilon \cap S^c \not= \varnothing\right)$$
 		- En otras palabras, $z$ se encuentra en la frontera de $S$, cuando todas sus vecindades contienen puntos de $S$ y de su complemento.
 	- ## Arco-Conexo
+	  id:: 66d64745-7bc9-49ec-98e0-116bb68b69c9
 		- > En el libro esto se menciona como simplemente conexo, sin embargo, esta definición trae más especificaciones que la definición general de conexidad
 		- Sea $S\subseteq\mathbb{C}$, se dice que $S$ es arco-conexo, cuando, para todo par de puntos $z_1,z_2\in S$, existe una colección finita de segmentos contenidos en $S$, los cuales conecten ambos puntos.
-		- Otras fuentes cambian la colección de segmentos por curvas continuas, en este caso de un intervalo $[a,b]$ a $S$
-- term
-  : definition
+		- Otras fuentes cambian la colección de segmentos por curvas continuas, en este caso de un intervalo $[a,b]$ a $S$, con la característica de ser biyectivas y con inversa continua.
+	- ## Dominio
+		- Un dominio como región de $\mathbb{C}$, hace referencia a un conjunto abierto y ((66d64745-7bc9-49ec-98e0-116bb68b69c9)).
+	- ## Puntos de acumulación
+		- Es el nombre que el libro le da a los puntos límite.
