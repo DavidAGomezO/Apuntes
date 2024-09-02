@@ -3,7 +3,7 @@
 	- Cuerpos
 		- Reales
 		- Complejos
-	- Espacios Métricos
+	- [[Espacios Métricos]]
 		- Conjuntos Compactos
 	- Sucesiones
 		- Series

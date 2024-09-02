@@ -2,7 +2,7 @@
 - Capítulo 1: Números Complejos
 	- [[Definición]]
 	- [[Potencias y Raices]]
-	- Regiones en el plano complejo
+	- [[Regiones en el plano complejo]]
 - Capítulo 2: Funciones Analíticas
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
