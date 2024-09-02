@@ -10,3 +10,6 @@
 - Antes de entrar en detalles, un ejemplo para las raices n-ésimas de la unidad: ![RaizUnidad.pdf](../assets/AssetsPDF_1725126252848_0.pdf)
 - Con este ejemplo, es más facil ver que, para un número complejo $z_0 = re^{i\theta_0}$, su raíz n-ésima es el conjunto
   $$\left\{\sqrt{r}\exp\left(i\frac{\theta_0 + 2k\pi}{n}\right)\middle| 0 \geq k < n \land k \in \mathbb{Z}\right\}$$
+- De la mano con esto viene una conveniencia. Al decir que $z = z_0^{1/n}$ se está diciendo que $z \in z_0^{1/n}$. La notación presentada simplificará los cálculos, sin embargo es necesario recordar a qué hace referencia. De esto se obtienen un par de resultados interesantes:
+- ## Lemas sobre Raíces
+	- $(a^n\,b)^{1/n} = a\,b^{1/n}$:
