@@ -424,5 +424,5 @@
  :orphan-pages? false
  :excluded-pages? false}
  :journal/page-title-format "dd-MM-yyyy"
- :graph/forcesettings {:link-dist 120}
+ :graph/forcesettings {:link-dist 80}
  :editor/preferred-pasting-file? true}
