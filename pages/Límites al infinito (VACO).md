@@ -11,8 +11,7 @@
 		  $$0<|z-z_0|<\delta \Rightarrow \frac{1}{|f(z)|} < \varepsilon$$
 		  Con lo que, estos límites se pueden calcular mostrando que
 		  $$\lim_{z\to z_0} \frac{1}{f(z)} = 0$$
-		  Y viceversa.
-		  Claro está, siempre que la operación tenga sentido.
+		  Y viceversa. Claro está, siempre que la operación tenga sentido.
 	- ## Límites cuando la variable tiende a infinito
 		- La expresión
 		  $$\lim_{z\to \infty} f(z) = w_0$$
@@ -31,4 +30,6 @@
 		- Nótese que esta expresión es equivalente a
 		  $$\frac{1}{|z|} < \delta \Rightarrow \frac{1}{|f(z)|} < \varepsilon$$
 		- Entonces, estos límites se pueden calcular mostrando que
-		  $$\lim_{z\to 0} \frac{1}{f\left(\right)}$$
+		  $$\lim_{z\to 0} \frac{1}{f\left(\frac{1}{z}\right)} = 0$$
+		  y viceversa. Claro está, siempre que la operación tenga sentido.
+-
