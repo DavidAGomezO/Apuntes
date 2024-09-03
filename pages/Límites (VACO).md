@@ -3,3 +3,4 @@
 	- Sea $f$ una función compleja, la cual tiene como componentes cartesianas a las funciones $u,v$. Sean $z_0 = x_0 + iy_0$ y $w_0 = u_0 + iv_0$. Entonces
 	  $$\lim_{z \to z_0} f(z) = w_0 \equiv \lim_{(x,y) \to (x_0,y_0)} u(x,y) = u_0 \land \lim_{(x,y) \to (x_0,y_0)} v(x,y) = v_0$$
 	- Demostración: ![DemoLimites.pdf](../assets/AssetsPDF_1725325701838_0.pdf)
+	- Con este teorema, es inmediato que se mantienen los mismos teoremas que se tienen para funciones reales, en cuanto a suma, producto y cociente.

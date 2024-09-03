@@ -1,0 +1,2 @@
+- El concepto de infinito en el plano complejo, se refiere a puntos los cuales están en un conjunto no acotado. Esto se puede definir explícitamente con el siguiente conjunto:
+  $$\left\{z\in\mathbb{C}\middle| \left(\forall \varepsilon\,\middle|\, \varepsilon > 0 : |z| > \frac{1}{\varepsilon}\right)\right\}$$
