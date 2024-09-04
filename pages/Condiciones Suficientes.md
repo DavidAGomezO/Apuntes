@@ -1,0 +1,1 @@
+- Esta sección hace referencia a las [[Ecuaciones de Cauchy-Riemman]], y qué condiciones hacen falta en una función para garantizar su diferenciabilidad en un punto.
