@@ -7,6 +7,8 @@
 	- [[Límites (VACO)]]
 	- [[Límites al infinito (VACO)]]
 	- [[Derivada (VACO)]]
+	- [[Ecuaciones de Cauchy-Riemman]]
+	-
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
