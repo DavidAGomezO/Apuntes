@@ -6,6 +6,7 @@
 - Capítulo 2: Funciones Analíticas
 	- [[Límites (VACO)]]
 	- [[Límites al infinito (VACO)]]
+	- [[Derivada (VACO)]]
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
