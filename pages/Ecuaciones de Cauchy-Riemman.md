@@ -11,4 +11,11 @@
 	- El límite para el segundo acercamiento es
 	  $$\text{Re}(f'(z_0)) = v_y(x_0,y_0)$$
 	  $$\text{Im}(f'(z_0)) = -u_y(x_0,y_0)$$
-- Con estos límites, se tiene una condición para que una función sea diferenciable en un punto. Entonces, si las derivadas parciales de sus funciones-componente no cumplen las igualdades implícitas mencionadas; dicha función no es diferenciable en el punto evaluado.
+- De estas ecuaciones se tiene lo siguiente: Si la función $f$ es diferenciable en $z_0$, entonces,
+  $$
+  \begin{aligned}
+  u_x(x_0,y_0) &= v_y(x_0,y_0)\\
+  v_y(x_0,y_0) &= -u_y(x_0,y_0)
+  \end{aligned}
+  $$
+- De forma equivalente, si en el punto $z_0$, no se tienen estas igualdades, entonces $f$ no es diferenciable en $z_0$.
