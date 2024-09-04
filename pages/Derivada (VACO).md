@@ -6,3 +6,4 @@
 	  $$f'(z_0) = \lim_{\Delta z \to 0} \frac{f(z_0 + \Delta z) - f(z_0)}{\Delta z}$$
 - De forma análoga a las derivadas en $\mathbb{R}^n$, se adopta la notación de los diferenciales, haciendo referencia a cantidades infinitesimales (resultados de límites de diferencias).
   $$f'(z) = \frac{\text{d} f}{\text{d} z}$$
+- Por la sección de ![límites]([[Límites (VACO)]]), se tienen las mismas propiedades que se esperan para la derivada (suma, producto y composición).
