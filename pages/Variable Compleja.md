@@ -1,4 +1,4 @@
-- Libro de referencia: ![Variable Compleja y Aplicaciones 5ta edición](../assets/variable-compleja-y-aplicaciones-churchill_1724042312570_0.pdf)
+- Libro de referencia: Variable Compleja y Aplicaciones Churchill, Brown - 5ta edición
 - Capítulo 1: Números Complejos
 	- [[Definición]]
 	- [[Potencias y Raices]]
