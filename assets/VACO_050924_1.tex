@@ -1,0 +1,70 @@
+\documentclass[leqno, 12pt]{article}
+
+\usepackage{tpro}
+\usepackage{analysis}
+\usepackage{calcDG}
+\usepackage{lmodern}
+\usepackage{xfrac}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage[spanish, es-noquoting, es-lcroman, es-noshorthands]{babel}
+\usepackage{enumerate}
+\usepackage{upgreek}
+\everymath{\displaystyle}
+
+\renewcommand{\labelenumi}{(\roman{enumi})}
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\epsilon}{\upvarepsilon}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand\re{\text{Re}}
+\newcommand\im{\text{Im}}
+\newcommand\lvec{\left\langle}
+\newcommand\rvec{\right\rangle}
+
+\hyphenpenalty=10000
+
+
+\doublespacing
+\begin{document}
+Tomando el siguiente sistema de ecuaciones y resolviendo para $u_x,u_y$:
+\begin{longderivation}
+    \wff{
+      \begin{siseq}
+        u_r &= u_x\,\cos(\theta) + u_y\,\sin(\theta)\\
+        u_\theta &= -u_x\,r\sin(\theta) + u_y\,r\cos(\theta)
+      \end{siseq}
+    }\\
+  \equiv\\
+    \wff{
+      \begin{siseq}
+        u_x &= \frac{u_r\,r\cos(\theta) - u_\theta\sin(\theta)}{r}\\[10pt]
+        u_y &= \frac{u_\theta\cos(\theta) + u_r\,r\sin(\theta)}{r}
+      \end{siseq}
+    }\\
+  \equiv\\
+    \wff{
+      \begin{siseq}
+        u_x &= u_r\,\cos(\theta) - u_\theta\frac{\sin(\theta)}{r}\\
+        u_y &= u_\theta\frac{\cos(\theta)}{r} + u_r\,\sin(\theta)
+      \end{siseq}
+    }
+\end{longderivation}
+
+De forma análoga para $v$:
+\begin{align*}
+  v_x &= v_r\,\cos(\theta) - v_\theta\frac{\sin(\theta)}{r}\\
+  v_y &= v_\theta\frac{\cos(\theta)}{r} + v_r\,\sin(\theta)
+\end{align*}
+Ahora, supóngase que se cumplen las ecuaciones
+\begin{align*}
+  u_r &= \frac{1}{r}v_\theta\\[10pt]
+-v_r &= \frac{1}{r}u_\theta
+\end{align*}
+Entonces
+\begin{align*}
+  u_x &= v_\theta\frac{\cos(\theta)}{r} + v_r\,\sin(\theta) = v_y\\
+  u_y &= -v_r\,\cos(\theta) + v_\theta\frac{\sin(\theta)}{r} = -v_x
+\end{align*}
+
+Con lo que se cumplen las ecuaciones de Cauchy-Riemman.
+\end{document}
