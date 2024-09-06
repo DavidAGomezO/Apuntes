@@ -18,7 +18,14 @@
 - Si $u$ y $v$ cumplen las [[Ecuaciones de Cauchy-Riemman]], entonces:
   $$
   \begin{aligned}
-  v_r = -u_y\,\cos(\theta) + u_x\,\sin(\theta)\\
-  
+  v_r &= -u_y\,\cos(\theta) + u_x\,\sin(\theta) = -[-u_x\,\sin(\theta) + u_y\,\cos(\theta)]\\
+  v_\theta &= u_y\,r\sin(\theta) + u_x\,r\cos(\theta) = u_x\,r\cos(\theta) + u_y\,r\sin(\theta)
+  \end{aligned}
+  $$
+- Con todas las igualdades juntas, se tiene entonces que:
+  $$
+  \begin{aligned}
+  u_r &= \frac{1}{r}v_\theta\\[10pt]
+  -v_r &= \frac{1}{r}u_\theta
   \end{aligned}
   $$
