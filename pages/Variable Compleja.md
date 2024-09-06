@@ -9,7 +9,7 @@
 	- [[Derivada (VACO)]]
 	- [[Ecuaciones de Cauchy-Riemman]]
 	- [[Condiciones Suficientes]]
-	- (yo) [[Condiciones Suficientes (Polares)]]
+	- (*) [[Condiciones Suficientes (Polares)]]
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
