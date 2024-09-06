@@ -29,6 +29,10 @@
   -v_r &= \frac{1}{r}u_\theta
   \end{aligned}
   $$
+- Estas ecuaciones son llamadas ecuaciones de Cauchy-Riemman polares (C-R polares).
 - # Teorema 1: Las ecuaciones son equivalentes
-	- Si una función $f$ cumple con las ecuaciones obtenidas anteriormente, entonces, cumple con las ecuaciones de Cauchy-Riemman.
+	- Si una función $f$ cumple con las ecuaciones C-R polares, entonces, cumple con las ecuaciones de Cauchy-Riemman.
 	- Demostración: ![Demo.pdf](..\assets\VACO_050924_1.pdf)
+- # Teorema 2: Condiciones suficientes en polares
+	- Si una función $f(z) = u(r,\theta) + iv(r,\theta)$, cumple con las ecuaciones C-R polares en un punto 
+	  $z_0 = r_0\,e^{i\theta_0}$, y sus derivadas son continuas en una vecindad de $z_0$. Entonces $f$ es diferenciable en $z_0$.
