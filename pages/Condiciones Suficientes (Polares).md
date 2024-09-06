@@ -29,3 +29,6 @@
   -v_r &= \frac{1}{r}u_\theta
   \end{aligned}
   $$
+- # Teorema 1: Las ecuaciones son equivalentes
+	- Si una función $f$ cumple con las ecuaciones obtenidas anteriormente, entonces, cumple con las ecuaciones de Cauchy-Riemman.
+	- Demostración: ![Demo.pdf](..\assets\VACO_050924_1.pdf)
