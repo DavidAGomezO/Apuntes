@@ -37,6 +37,6 @@
 	- Si una función $f(z) = u(r,\theta) + iv(r,\theta)$, cumple con las ecuaciones C-R polares en un punto 
 	  $z_0 = r_0\,e^{i\theta_0}$, y sus derivadas son continuas en una vecindad de $z_0$. Entonces $f$ es diferenciable en $z_0$.
 	- ## Lema: derivada en términos de $u_r,v_r$
-		- Si una función $f(z) = u(x,y) + iv(x,y)$ es diferenciable en un punto $z_0$, entonces su derivada en $z_0$ se puede escribir como $e^{-i\theta_0}(u_r(r_0,\theta_0) + iv(r_0,\theta_0))$
+		- Si una función $f(z) = u(x,y) + iv(x,y)$ es diferenciable en un punto $z_0$, entonces su derivada en $z_0$ se puede escribir como $e^{-i\theta_0}(u_r(r_0,\theta_0) + iv_r(r_0,\theta_0))$
 		- Demostración: ![DemoLema.pdf](../assets/AssetsPDF_1725599589782_0.pdf)
 	- Demostración: Dado que $f$ cumple con las ecuaciones C-R polares, entonces cumple con las ecuaciones normales. Tomando las igualdades del lema en sentido contrario se obtiene una expresión para la derivada en $z_0$.
