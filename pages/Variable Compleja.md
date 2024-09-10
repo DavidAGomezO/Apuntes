@@ -7,7 +7,7 @@
 	- [[Límites (VACO)]]
 	- [[Límites al infinito (VACO)]]
 	- [[Derivada (VACO)]]
-	- [[Ecuaciones de Cauchy-Riemman]]
+	- [[Ecuaciones de Cauchy-Riemann]]
 	- [[Condiciones Suficientes]]
 	- (*) [[Condiciones Suficientes (Polares)]]
 - Capítulo 3: Funciones elementales

@@ -15,7 +15,7 @@
   \end{aligned}
   $$
   Y de forma análoga para $v$.
-- Si $u$ y $v$ cumplen las [[Ecuaciones de Cauchy-Riemman]], entonces:
+- Si $u$ y $v$ cumplen las [[Ecuaciones de Cauchy-Riemann]], entonces:
   $$
   \begin{aligned}
   v_r &= -u_y\,\cos(\theta) + u_x\,\sin(\theta) = -[-u_x\,\sin(\theta) + u_y\,\cos(\theta)]\\
