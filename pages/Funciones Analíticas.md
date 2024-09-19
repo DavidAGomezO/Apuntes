@@ -12,4 +12,4 @@
 	  4. $f \circ g$
 	  Son funciones analíticas
 	- ## Demostración:
-		- Esto es concecuencia inmediata de los
+		- Esto es consecuencia inmediata de los resultados de las derivadas para estas mismas combinaciones.
