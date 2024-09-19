@@ -10,6 +10,7 @@
 	- [[Ecuaciones de Cauchy-Riemann]]
 	- [[Condiciones Suficientes]]
 	- (*) [[Condiciones Suficientes (Polares)]]
+	- [[Funciones Analíticas]]
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
