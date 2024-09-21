@@ -11,6 +11,7 @@
 	- [[Condiciones Suficientes]]
 	- (*) [[Condiciones Suficientes (Polares)]]
 	- [[Funciones Analíticas]]
+	- [[Funciones Armónicas]]
 - Capítulo 3: Funciones elementales
 - Capítulo 4: Integrales
 - Capítulo 5: Series
