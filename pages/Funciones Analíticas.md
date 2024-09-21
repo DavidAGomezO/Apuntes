@@ -13,3 +13,7 @@
 	  Son funciones analíticas
 	- ## Demostración:
 		- Esto es consecuencia inmediata de los resultados de las derivadas para estas mismas combinaciones.
+- # Teorema
+	- Sea $f$ una función analítica en un dominio $D$, tal que, para todo $z\in D$, $f'(z) = 0$. Entonces, existe $z_0\in\mathbb{C}$ tal que, para todo $z\in D$, $f(z)=z_0$.
+	- ## Demostración:
+-
