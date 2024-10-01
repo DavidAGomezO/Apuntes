@@ -4,4 +4,4 @@
 - ## Teorema 1:
 	- Sea $f(x+iy) = u(x,y) + i\,v(x,y)$ una función analítica en un dominio $D$. Entonces $u$ y $v$ son armónicas.
 	- # Demostración
-		-
+		- Como $f$ es analítica, entonces, existen las primeras y segundas derivadas parciales de $u$ y $v$, las cuales cumplen con las [[Ecuaciones de Cauchy-Riemann]].
