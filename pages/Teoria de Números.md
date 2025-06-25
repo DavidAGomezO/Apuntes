@@ -1,1 +1,0 @@
-- Libro de referencia: Elemental Number Theory - David M. Burton 7th edition
