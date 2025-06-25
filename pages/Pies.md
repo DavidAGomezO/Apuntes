@@ -19,7 +19,11 @@
 	- Se vuelve a cruzar el pie y ahora se masajea la planta
 	  ![image.png](../assets/image_1750874128531_0.png)
 	  Haciendo presión desde que comienza la parte suave de la planta se sigue una linea recta hasta finalizar la parte suave de la planta y se separan los pulgares en direcciones opuestas. Esto se repite varias veces moviendo la linea recta a diferentes lugares de la planta.
-	-
-	-
-	-
+	- Se realiza una presión cerca del talón en la planta del pié en donde haya mayor sensibilidad. A partir de este punto se realizan movimientos circulares pequeños, 10 en cada sentido 
+	  ![image.png](../assets/image_1750874279831_0.png)
+	- Ahora se estiran los dedos de los pies hacia arriba. Esto dejará expuestos los músculos de la planta del pie. Con la parte baja de la palma de la mano se relizará una presión sobre la planta y se seguirá una linea recta hasta los dedos de los pies, 10 veces.
+	  ![image.png](../assets/image_1750874414838_0.png)
+	- Se inicia con los pulgares nuevamente en donde inicia la parte suave de la planta, con un dedo por delante del otro y se realizan movimientos cruzados
+	  ![image.png](../assets/image_1750874535800_0.png)
+	  Al llegar al final se levantan las manos y se posicionan al inicio. 10 veces.
 	-
